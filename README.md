@@ -1,5 +1,5 @@
-#Assignment 4 
-## Task 1: Read a File and Handle Errors 
+## Assignment 4 
+# Task 1: Read a File and Handle Errors 
 - Here in this task 1, I make a sample.txt file
 - After that, I use the try method and make a variable file
 - On that var file,  I open the sample.txt file and choose r mode
@@ -7,7 +7,7 @@
 - after that I make a Expect where if there FileNotFound error it will print file not found
 - Finally, it's all done.
 
-#Task 2: Write and Append Data to a File
+# Task 2: Write and Append Data to a File
 - I this Task, first I take input from the user with the help of the input function.
 - Then I use the write method and add the text to the output.txt file.
 - Then I again take input from the user.
